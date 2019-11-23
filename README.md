@@ -13,5 +13,5 @@ The database was built with NoSql and was structured. So for every collection of
 First the user signs up/logs in, then the location is chosen and finally there is the option to check the temperature or humidity for that location. The data is shown as a simulated plot.
 
 
-***I worked alone on this project.
+
 
